@@ -107,7 +107,7 @@ document.querySelectorAll('section').forEach((ele) => shower.observe(ele));
 
 // hide the navbar when the scroll stop
 
-window.addEventListener('scroll', hiddenNavbar, false);
+// window.addEventListener('scroll', hiddenNavbar, false);
 
 // show navbar when user scroll scroll
 
